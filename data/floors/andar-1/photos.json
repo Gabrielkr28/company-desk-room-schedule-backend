@@ -1,0 +1,80 @@
+{
+  "photos": [
+    {
+      "id": "foto-3",
+      "file": "foto-3.jpg",
+      "label": "Foto 360°",
+      "angle": 360,
+      "direction": "Norte — sua mesa",
+      "aspect": 0.5625,
+      "pose": {
+        "position": [
+          39.75,
+          1.65,
+          36.45
+        ],
+        "yaw": -2,
+        "pitch": -47,
+        "roll": 0,
+        "vfov": 106
+      }
+    },
+    {
+      "id": "foto-2",
+      "file": "foto-2.jpg",
+      "label": "Foto 90°",
+      "angle": 90,
+      "direction": "Leste — elevador e saída",
+      "aspect": 0.5625,
+      "pose": {
+        "position": [
+          39.75,
+          1.15,
+          37.2
+        ],
+        "yaw": -91,
+        "pitch": -34,
+        "roll": 0,
+        "vfov": 106
+      }
+    },
+    {
+      "id": "foto-4",
+      "file": "foto-4.jpg",
+      "label": "Foto 180°",
+      "angle": 180,
+      "direction": "Sul — corredor principal",
+      "aspect": 0.5625,
+      "pose": {
+        "position": [
+          39.75,
+          1.65,
+          37.05
+        ],
+        "yaw": 175,
+        "pitch": -39,
+        "roll": 0,
+        "vfov": 106
+      }
+    },
+    {
+      "id": "foto-1",
+      "file": "foto-1.jpg",
+      "label": "Foto 270°",
+      "angle": 270,
+      "direction": "Oeste — corredor principal",
+      "aspect": 0.5625,
+      "pose": {
+        "position": [
+          39.75,
+          1.2,
+          37.1
+        ],
+        "yaw": 86,
+        "pitch": -38,
+        "roll": 0,
+        "vfov": 106
+      }
+    }
+  ]
+}

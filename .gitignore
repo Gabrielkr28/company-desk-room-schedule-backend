@@ -1,0 +1,5 @@
+/bin/
+*.tmp
+
+# Fotos do escritório (têm pessoas): ficam só na máquina local
+/data/floors/*/photos/
